@@ -1,4 +1,4 @@
-# Kurikulum Bootcamp Bacod (BoBa)
+# Kurikulum 
 
 ## Pengenalan
 - Pengertian dasar pemrograman dan bahasa pemrograman

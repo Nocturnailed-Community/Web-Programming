@@ -194,3 +194,9 @@ DOM (Document Object Model) adalah representasi struktur dokumen HTML atau XML d
 </body>
 </html>
 ```
+
+### Source
+- [W3Schools: HTML DOM](https://www.w3schools.com/js/js_htmldom.asp)
+- [Petani Kode: JavaScript DOM](https://www.petanikode.com/javascript-dom/)
+- [JavaScript Tutorial: DOM](https://www.javascripttutorial.net/javascript-dom/)
+- [MDN Web Docs: Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
